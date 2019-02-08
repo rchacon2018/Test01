@@ -1,0 +1,26 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "Testing to create a project with CI",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.7.0",
+    "tslint": "^5.12.1",
+    "testcafe": "^1.0.0",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testcafe chrome test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchacon2018/Test01.git"
+  },
+  "author": "Robeth Chacon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchacon2018/Test01/issues"
+  },
+  "homepage": "https://github.com/rchacon2018/Test01#readme"
+}
