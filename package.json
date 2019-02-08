@@ -4,10 +4,10 @@
   "description": "Testing to create a project with CI",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "npm": "^6.7.0",
-    "tslint": "^5.12.1",
     "testcafe": "^1.0.0",
-    "dotenv": "^6.2.0"
+    "tslint": "^5.12.1"
   },
   "devDependencies": {},
   "scripts": {
